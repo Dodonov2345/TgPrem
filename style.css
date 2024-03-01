@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    background-color: lightskyblue;
+}
+header h1 {
+background-color: blueviolet;
+padding: 30px;
+margin: 0px;
+}
+
+header img {
+width: 200px;
+height: 150px;
+background-color: lightskyblue;
+
+}
+
+}
+main h2{
+    background-color: lightskyblue;
+}
+main p{
+background-color: lightskyblue;
+}
+footer{
+    background-color: black;
+
+}
+footer h2{
+    background-color: white;
+    padding: 20px;
+}
+.pon{
+    background-color: slateblue;
+}
+.pan{
+    background-color: violet;
+}
+.ponyal{
+    background-color: royalblue;
+}
+.nepon{
+    background-color: turquoise;
+}
